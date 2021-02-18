@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.genruntimeconfig.cache
