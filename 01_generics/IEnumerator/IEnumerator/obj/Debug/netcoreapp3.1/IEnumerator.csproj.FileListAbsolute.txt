@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\bin\Debug\netcoreapp3.1\IEnumerator.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\bin\Debug\netcoreapp3.1\IEnumerator.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\bin\Debug\netcoreapp3.1\IEnumerator.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\bin\Debug\netcoreapp3.1\IEnumerator.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\bin\Debug\netcoreapp3.1\IEnumerator.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\bin\Debug\netcoreapp3.1\IEnumerator.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\obj\Debug\netcoreapp3.1\IEnumerator.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\obj\Debug\netcoreapp3.1\IEnumerator.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\obj\Debug\netcoreapp3.1\IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\obj\Debug\netcoreapp3.1\IEnumerator.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\obj\Debug\netcoreapp3.1\IEnumerator.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\obj\Debug\netcoreapp3.1\IEnumerator.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumerator\IEnumerator\obj\Debug\netcoreapp3.1\IEnumerator.csprojAssemblyReference.cache
