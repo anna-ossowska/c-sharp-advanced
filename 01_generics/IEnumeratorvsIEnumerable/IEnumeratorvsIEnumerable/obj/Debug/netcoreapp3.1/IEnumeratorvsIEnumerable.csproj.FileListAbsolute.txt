@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\bin\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\bin\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\bin\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\bin\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\bin\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\bin\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\obj\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\obj\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\obj\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\obj\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\obj\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\obj\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\IEnumeratorvsIEnumerable\IEnumeratorvsIEnumerable\obj\Debug\netcoreapp3.1\IEnumeratorvsIEnumerable.genruntimeconfig.cache
