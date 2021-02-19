@@ -1,0 +1,6 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.Common\bin\Debug\Generics.Common.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.Common\bin\Debug\Generics.Common.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.Common\obj\Debug\Generics.Common.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.Common\obj\Debug\Generics.Common.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.Common\obj\Debug\Generics.Common.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.Common\obj\Debug\Generics.Common.pdb
