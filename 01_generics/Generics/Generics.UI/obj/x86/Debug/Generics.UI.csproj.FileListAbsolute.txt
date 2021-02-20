@@ -1,20 +1,20 @@
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\bin\Debug\Generics.UI.exe.config
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\bin\Debug\Generics.UI.exe
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\bin\Debug\Generics.UI.pdb
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\bin\Debug\Generics.Common.dll
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\bin\Debug\Generics.Common.pdb
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\Generics.UI.csprojAssemblyReference.cache
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\MainWindow.baml
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\MainWindow.g.cs
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\App.g.cs
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\Generics.UI_MarkupCompile.cache
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\Generics.UI_MarkupCompile.lref
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\App.baml
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\Generics.UI.g.resources
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\Generics.UI.Properties.Resources.resources
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\Generics.UI.csproj.GenerateResource.cache
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\Generics.UI.csproj.CoreCompileInputs.cache
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\Generics.UI.csproj.CopyComplete
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\Generics.UI.exe
-C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\Generics\Generics.UI\obj\x86\Debug\Generics.UI.pdb
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\bin\Debug\Generics.UI.exe.config
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\bin\Debug\Generics.UI.exe
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\bin\Debug\Generics.UI.pdb
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\bin\Debug\Generics.Common.dll
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\bin\Debug\Generics.Common.pdb
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\Generics.UI.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\MainWindow.baml
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\App.g.cs
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\Generics.UI_MarkupCompile.cache
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\Generics.UI_MarkupCompile.lref
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\App.baml
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\Generics.UI.g.resources
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\Generics.UI.Properties.Resources.resources
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\Generics.UI.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\Generics.UI.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\Generics.UI.csproj.CopyComplete
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\Generics.UI.exe
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Generics\Completed\Generics\Generics.UI\obj\x86\Debug\Generics.UI.pdb

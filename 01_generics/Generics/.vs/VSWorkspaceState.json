@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Generics.Common\\Interface",
+    "\\Generics.Repository",
+    "\\Generics.Repository\\PersonRepository",
+    "\\Generics.Repository\\ProductRepository"
   ],
-  "SelectedNode": "\\Generics.sln",
+  "SelectedNode": "\\Generics.Repository\\ProductRepository\\GenericProductServiceRepository.cs",
   "PreviewInSolutionExplorer": false
 }

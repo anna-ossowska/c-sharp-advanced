@@ -17,27 +17,39 @@ namespace Generics.UI
 
         private void NonGenericButton_Click(object sender, RoutedEventArgs e)
         {
-            ArrayList people = People.GetNonGenericPeople();
+            PersonListBox.Items.Clear();
 
-            foreach (object person in people)
+            ArrayList people = People.GetNonGenericPeople();
+            people.Add("Hello"); // No compile-time error; strange runtime behavior
+            people.Add(15);      // No compile-time error; strange runtime behavior
+            foreach (var person in people)
             {
                 PersonListBox.Items.Add(person);
+                //PersonListBox.Items.Add((Person)person); // Runtime error
             }
         }
 
         private void GenericButton_Click(object sender, RoutedEventArgs e)
         {
-            List<Person> people = People.GetGenericPeople();
+            PersonListBox.Items.Clear();
 
-            foreach (Person person in people)
-            {
+            List<Person> people = People.GetGenericPeople();
+            //people.Add("Hello"); // Compile-time error
+            //people.Add(15);      // Compile-time error
+            foreach (var person in people)
                 PersonListBox.Items.Add(person);
-            }
         }
 
         private void RepositoryButton_Click(object sender, RoutedEventArgs e)
         {
+            //IPersonRepository repo = RepositoryFactory.GetPersonRepository();
+            //var people = repo.GetPeople();
 
+            var repo = Container.Resolve<IRepository<Person, string>>();
+            var people = repo.GetItems();
+
+            foreach (var person in people)
+                PersonListBox.Items.Add(person);
         }
 
         private void ClearButton_Click(object sender, RoutedEventArgs e)
