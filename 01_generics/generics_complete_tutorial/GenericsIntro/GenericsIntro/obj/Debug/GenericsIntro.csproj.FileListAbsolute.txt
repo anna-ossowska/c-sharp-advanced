@@ -1,0 +1,7 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsIntro\GenericsIntro\bin\Debug\GenericsIntro.exe.config
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsIntro\GenericsIntro\bin\Debug\GenericsIntro.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsIntro\GenericsIntro\bin\Debug\GenericsIntro.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsIntro\GenericsIntro\obj\Debug\GenericsIntro.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsIntro\GenericsIntro\obj\Debug\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsIntro\GenericsIntro\obj\Debug\GenericsIntro.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsIntro\GenericsIntro\obj\Debug\GenericsIntro.pdb
