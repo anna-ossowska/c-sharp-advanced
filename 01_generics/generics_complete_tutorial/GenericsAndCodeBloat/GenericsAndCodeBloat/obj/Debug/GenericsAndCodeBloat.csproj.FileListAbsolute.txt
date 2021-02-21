@@ -1,0 +1,6 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsAndCodeBloat\GenericsAndCodeBloat\bin\Debug\GenericsAndCodeBloat.exe.config
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsAndCodeBloat\GenericsAndCodeBloat\bin\Debug\GenericsAndCodeBloat.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsAndCodeBloat\GenericsAndCodeBloat\bin\Debug\GenericsAndCodeBloat.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsAndCodeBloat\GenericsAndCodeBloat\obj\Debug\GenericsAndCodeBloat.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsAndCodeBloat\GenericsAndCodeBloat\obj\Debug\GenericsAndCodeBloat.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericsAndCodeBloat\GenericsAndCodeBloat\obj\Debug\GenericsAndCodeBloat.pdb
