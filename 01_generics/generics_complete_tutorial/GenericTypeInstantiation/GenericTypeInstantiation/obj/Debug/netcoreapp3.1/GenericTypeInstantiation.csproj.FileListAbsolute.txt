@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\bin\Debug\netcoreapp3.1\GenericTypeInstantiation.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\bin\Debug\netcoreapp3.1\GenericTypeInstantiation.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\bin\Debug\netcoreapp3.1\GenericTypeInstantiation.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\bin\Debug\netcoreapp3.1\GenericTypeInstantiation.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\bin\Debug\netcoreapp3.1\GenericTypeInstantiation.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\bin\Debug\netcoreapp3.1\GenericTypeInstantiation.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\obj\Debug\netcoreapp3.1\GenericTypeInstantiation.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\obj\Debug\netcoreapp3.1\GenericTypeInstantiation.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\obj\Debug\netcoreapp3.1\GenericTypeInstantiation.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\obj\Debug\netcoreapp3.1\GenericTypeInstantiation.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\obj\Debug\netcoreapp3.1\GenericTypeInstantiation.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\obj\Debug\netcoreapp3.1\GenericTypeInstantiation.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInstantiation\GenericTypeInstantiation\obj\Debug\netcoreapp3.1\GenericTypeInstantiation.genruntimeconfig.cache
