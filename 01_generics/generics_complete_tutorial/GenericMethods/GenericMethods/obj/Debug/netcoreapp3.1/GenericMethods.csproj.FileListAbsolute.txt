@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.csprojAssemblyReference.cache
