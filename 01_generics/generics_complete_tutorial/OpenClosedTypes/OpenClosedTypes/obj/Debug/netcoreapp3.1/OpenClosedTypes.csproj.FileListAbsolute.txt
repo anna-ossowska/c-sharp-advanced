@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\bin\Debug\netcoreapp3.1\OpenClosedTypes.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\bin\Debug\netcoreapp3.1\OpenClosedTypes.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\bin\Debug\netcoreapp3.1\OpenClosedTypes.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\bin\Debug\netcoreapp3.1\OpenClosedTypes.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\bin\Debug\netcoreapp3.1\OpenClosedTypes.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\bin\Debug\netcoreapp3.1\OpenClosedTypes.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\obj\Debug\netcoreapp3.1\OpenClosedTypes.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\obj\Debug\netcoreapp3.1\OpenClosedTypes.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\obj\Debug\netcoreapp3.1\OpenClosedTypes.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\obj\Debug\netcoreapp3.1\OpenClosedTypes.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\obj\Debug\netcoreapp3.1\OpenClosedTypes.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\obj\Debug\netcoreapp3.1\OpenClosedTypes.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\OpenClosedTypes\OpenClosedTypes\obj\Debug\netcoreapp3.1\OpenClosedTypes.genruntimeconfig.cache
