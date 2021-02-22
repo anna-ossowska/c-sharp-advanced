@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericConstraints\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.genruntimeconfig.cache
