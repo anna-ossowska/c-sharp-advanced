@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\bin\Debug\netcoreapp3.1\GenericTypeInference.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\bin\Debug\netcoreapp3.1\GenericTypeInference.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\bin\Debug\netcoreapp3.1\GenericTypeInference.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\bin\Debug\netcoreapp3.1\GenericTypeInference.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\bin\Debug\netcoreapp3.1\GenericTypeInference.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\bin\Debug\netcoreapp3.1\GenericTypeInference.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\obj\Debug\netcoreapp3.1\GenericTypeInference.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\obj\Debug\netcoreapp3.1\GenericTypeInference.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\obj\Debug\netcoreapp3.1\GenericTypeInference.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\obj\Debug\netcoreapp3.1\GenericTypeInference.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\obj\Debug\netcoreapp3.1\GenericTypeInference.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\obj\Debug\netcoreapp3.1\GenericTypeInference.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\GenericTypeInference\GenericTypeInference\obj\Debug\netcoreapp3.1\GenericTypeInference.genruntimeconfig.cache
