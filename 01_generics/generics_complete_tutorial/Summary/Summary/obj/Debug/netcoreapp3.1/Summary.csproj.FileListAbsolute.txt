@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\bin\Debug\netcoreapp3.1\Summary.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\01_generics\generics_complete_tutorial\Summary\Summary\obj\Debug\netcoreapp3.1\Summary.genruntimeconfig.cache
