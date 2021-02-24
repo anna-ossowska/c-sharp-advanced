@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\bin\Debug\netcoreapp3.1\MethodAndTarget.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\bin\Debug\netcoreapp3.1\MethodAndTarget.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\bin\Debug\netcoreapp3.1\MethodAndTarget.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\bin\Debug\netcoreapp3.1\MethodAndTarget.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\bin\Debug\netcoreapp3.1\MethodAndTarget.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\bin\Debug\netcoreapp3.1\MethodAndTarget.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\obj\Debug\netcoreapp3.1\MethodAndTarget.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\obj\Debug\netcoreapp3.1\MethodAndTarget.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\obj\Debug\netcoreapp3.1\MethodAndTarget.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\obj\Debug\netcoreapp3.1\MethodAndTarget.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\obj\Debug\netcoreapp3.1\MethodAndTarget.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\obj\Debug\netcoreapp3.1\MethodAndTarget.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MethodAndTarget\MethodAndTarget\obj\Debug\netcoreapp3.1\MethodAndTarget.genruntimeconfig.cache
