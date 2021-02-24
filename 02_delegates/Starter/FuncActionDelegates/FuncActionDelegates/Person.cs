@@ -44,9 +44,15 @@ namespace FuncActionDelegates
             return string.Format("{0} {1}", FirstName, LastName);
         }
 
+        // Open closed principle
+        // Our class is opened to extension but closed to modification
+        // By adding the PersonFormat delegate we created the extension point
+        // We changed how the class behaves without changing the class itself
         public string ToString(PersonFormat format)
         {
-            return format(this);
+            if (format != null)
+              return format(this);
+            return this.ToString();
         }
          
     }
