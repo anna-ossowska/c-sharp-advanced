@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\bin\Debug\netcoreapp3.1\DelegateChaining.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\bin\Debug\netcoreapp3.1\DelegateChaining.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\bin\Debug\netcoreapp3.1\DelegateChaining.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\bin\Debug\netcoreapp3.1\DelegateChaining.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\bin\Debug\netcoreapp3.1\DelegateChaining.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\bin\Debug\netcoreapp3.1\DelegateChaining.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\obj\Debug\netcoreapp3.1\DelegateChaining.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\obj\Debug\netcoreapp3.1\DelegateChaining.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\obj\Debug\netcoreapp3.1\DelegateChaining.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\obj\Debug\netcoreapp3.1\DelegateChaining.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\obj\Debug\netcoreapp3.1\DelegateChaining.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\obj\Debug\netcoreapp3.1\DelegateChaining.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChaining\DelegateChaining\obj\Debug\netcoreapp3.1\DelegateChaining.csprojAssemblyReference.cache
