@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\bin\Debug\netcoreapp3.1\DelegatesIntro2.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\bin\Debug\netcoreapp3.1\DelegatesIntro2.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\bin\Debug\netcoreapp3.1\DelegatesIntro2.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\bin\Debug\netcoreapp3.1\DelegatesIntro2.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\bin\Debug\netcoreapp3.1\DelegatesIntro2.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\bin\Debug\netcoreapp3.1\DelegatesIntro2.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\obj\Debug\netcoreapp3.1\DelegatesIntro2.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\obj\Debug\netcoreapp3.1\DelegatesIntro2.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\obj\Debug\netcoreapp3.1\DelegatesIntro2.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\obj\Debug\netcoreapp3.1\DelegatesIntro2.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\obj\Debug\netcoreapp3.1\DelegatesIntro2.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\obj\Debug\netcoreapp3.1\DelegatesIntro2.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegatesIntro2\DelegatesIntro2\obj\Debug\netcoreapp3.1\DelegatesIntro2.genruntimeconfig.cache
