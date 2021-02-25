@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.csprojAssemblyReference.cache
