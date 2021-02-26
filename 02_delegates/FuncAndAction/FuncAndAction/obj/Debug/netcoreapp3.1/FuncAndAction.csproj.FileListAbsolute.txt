@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\bin\Debug\netcoreapp3.1\FuncAndAction.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\bin\Debug\netcoreapp3.1\FuncAndAction.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\bin\Debug\netcoreapp3.1\FuncAndAction.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\bin\Debug\netcoreapp3.1\FuncAndAction.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\bin\Debug\netcoreapp3.1\FuncAndAction.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\bin\Debug\netcoreapp3.1\FuncAndAction.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\obj\Debug\netcoreapp3.1\FuncAndAction.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\obj\Debug\netcoreapp3.1\FuncAndAction.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\obj\Debug\netcoreapp3.1\FuncAndAction.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\obj\Debug\netcoreapp3.1\FuncAndAction.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\obj\Debug\netcoreapp3.1\FuncAndAction.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\obj\Debug\netcoreapp3.1\FuncAndAction.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\FuncAndAction\FuncAndAction\obj\Debug\netcoreapp3.1\FuncAndAction.csprojAssemblyReference.cache
