@@ -1,31 +1,26 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace LambdaExpressions
 {
     class Program
     {
-        delegate bool MeDelegate(int n);
-
         static void Main(string[] args)
         {
-            int[] numbers = new[] { 9, 1, 2, 3, 8, 4, 5 };
-            IEnumerable<int> result = RunNumbersThroughGauntlet(numbers, n => n > 3);
-            foreach (int n in result)
-            {
-                Console.WriteLine(n);
-            }
-        }
+            // Lambda:
+            Func<int, bool> func = i => i > 5;
+            Console.WriteLine(func(3));
+            Console.WriteLine(func(7));
 
-        static IEnumerable<int> RunNumbersThroughGauntlet(IEnumerable<int> numbers, MeDelegate gauntlet)
-        {
-            foreach (int number in numbers)
-            {
-                if (gauntlet(number))
-                {
-                    yield return number;
-                }
-            }
+            // Lambda under the hood:
+            //static bool MethodName(int i)
+            //{
+            //    return i > 5;
+            //}
+
+            // Anonymous method (rarely used):
+            Func<int, bool> func2 = delegate(int i) { return i > 5; };
+            Console.WriteLine(func2(3));
+            Console.WriteLine(func2(7));
         }
     }
 }
