@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\bin\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\bin\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\bin\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\bin\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\bin\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\bin\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\obj\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\obj\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\obj\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\obj\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\obj\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\obj\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\MulticastDelegatevsDelegate\MulticastDelegatevsDelegate\obj\Debug\netcoreapp3.1\MulticastDelegatevsDelegate.genruntimeconfig.cache
