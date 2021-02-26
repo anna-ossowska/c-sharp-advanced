@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\bin\Debug\netcoreapp3.1\DelegateChainsAndExceptions.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\bin\Debug\netcoreapp3.1\DelegateChainsAndExceptions.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\bin\Debug\netcoreapp3.1\DelegateChainsAndExceptions.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\bin\Debug\netcoreapp3.1\DelegateChainsAndExceptions.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\bin\Debug\netcoreapp3.1\DelegateChainsAndExceptions.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\bin\Debug\netcoreapp3.1\DelegateChainsAndExceptions.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\obj\Debug\netcoreapp3.1\DelegateChainsAndExceptions.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\obj\Debug\netcoreapp3.1\DelegateChainsAndExceptions.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\obj\Debug\netcoreapp3.1\DelegateChainsAndExceptions.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\obj\Debug\netcoreapp3.1\DelegateChainsAndExceptions.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\obj\Debug\netcoreapp3.1\DelegateChainsAndExceptions.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\obj\Debug\netcoreapp3.1\DelegateChainsAndExceptions.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\DelegateChainsAndExceptions\DelegateChainsAndExceptions\obj\Debug\netcoreapp3.1\DelegateChainsAndExceptions.genruntimeconfig.cache
