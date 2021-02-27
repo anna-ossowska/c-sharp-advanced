@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\obj\Debug\netcoreapp3.1\Closures4.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\obj\Debug\netcoreapp3.1\Closures4.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\obj\Debug\netcoreapp3.1\Closures4.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\obj\Debug\netcoreapp3.1\Closures4.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\bin\Debug\netcoreapp3.1\Closures4.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\bin\Debug\netcoreapp3.1\Closures4.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\bin\Debug\netcoreapp3.1\Closures4.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\bin\Debug\netcoreapp3.1\Closures4.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\bin\Debug\netcoreapp3.1\Closures4.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\bin\Debug\netcoreapp3.1\Closures4.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\obj\Debug\netcoreapp3.1\Closures4.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\obj\Debug\netcoreapp3.1\Closures4.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures4\Closures4\obj\Debug\netcoreapp3.1\Closures4.genruntimeconfig.cache
