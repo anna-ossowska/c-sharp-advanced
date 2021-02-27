@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\bin\Debug\netcoreapp3.1\Closures3.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\bin\Debug\netcoreapp3.1\Closures3.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\bin\Debug\netcoreapp3.1\Closures3.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\bin\Debug\netcoreapp3.1\Closures3.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\bin\Debug\netcoreapp3.1\Closures3.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\bin\Debug\netcoreapp3.1\Closures3.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\obj\Debug\netcoreapp3.1\Closures3.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\obj\Debug\netcoreapp3.1\Closures3.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\obj\Debug\netcoreapp3.1\Closures3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\obj\Debug\netcoreapp3.1\Closures3.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\obj\Debug\netcoreapp3.1\Closures3.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures3\Closures3\obj\Debug\netcoreapp3.1\Closures3.genruntimeconfig.cache
