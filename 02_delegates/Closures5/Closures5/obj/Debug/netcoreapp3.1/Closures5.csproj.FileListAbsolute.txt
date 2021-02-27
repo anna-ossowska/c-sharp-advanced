@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\bin\Debug\netcoreapp3.1\Closures5.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\bin\Debug\netcoreapp3.1\Closures5.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\bin\Debug\netcoreapp3.1\Closures5.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\bin\Debug\netcoreapp3.1\Closures5.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\bin\Debug\netcoreapp3.1\Closures5.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\bin\Debug\netcoreapp3.1\Closures5.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\obj\Debug\netcoreapp3.1\Closures5.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\obj\Debug\netcoreapp3.1\Closures5.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\obj\Debug\netcoreapp3.1\Closures5.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\obj\Debug\netcoreapp3.1\Closures5.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\obj\Debug\netcoreapp3.1\Closures5.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\obj\Debug\netcoreapp3.1\Closures5.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Closures5\Closures5\obj\Debug\netcoreapp3.1\Closures5.genruntimeconfig.cache
