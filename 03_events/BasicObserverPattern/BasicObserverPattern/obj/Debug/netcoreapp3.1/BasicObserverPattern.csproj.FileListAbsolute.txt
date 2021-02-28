@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\bin\Debug\netcoreapp3.1\BasicObserverPattern.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\bin\Debug\netcoreapp3.1\BasicObserverPattern.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\bin\Debug\netcoreapp3.1\BasicObserverPattern.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\bin\Debug\netcoreapp3.1\BasicObserverPattern.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\bin\Debug\netcoreapp3.1\BasicObserverPattern.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\bin\Debug\netcoreapp3.1\BasicObserverPattern.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\obj\Debug\netcoreapp3.1\BasicObserverPattern.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\obj\Debug\netcoreapp3.1\BasicObserverPattern.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\obj\Debug\netcoreapp3.1\BasicObserverPattern.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\obj\Debug\netcoreapp3.1\BasicObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\obj\Debug\netcoreapp3.1\BasicObserverPattern.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\obj\Debug\netcoreapp3.1\BasicObserverPattern.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\BasicObserverPattern\BasicObserverPattern\obj\Debug\netcoreapp3.1\BasicObserverPattern.genruntimeconfig.cache
