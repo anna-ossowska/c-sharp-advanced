@@ -1,0 +1,32 @@
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\bin\Debug\FuncActionDelegates.exe
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\bin\Debug\FuncActionDelegates.pdb
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\MainWindow.g.cs
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\App.g.cs
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates_MarkupCompile.cache
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates_MarkupCompile.lref
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\App.baml
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\MainWindow.baml
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.g.resources
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.Properties.Resources.resources
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.exe
+C:\Users\tomas\Desktop\AFTER BOOTCAMP\C# Advanced\Delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\bin\Debug\FuncActionDelegates.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\bin\Debug\FuncActionDelegates.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\MainWindow.g.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\App.g.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates_MarkupCompile.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates_MarkupCompile.lref
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\App.baml
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\MainWindow.baml
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.g.resources
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.Properties.Resources.resources
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\02_delegates\Starter\FuncActionDelegates\FuncActionDelegates\obj\x86\Debug\FuncActionDelegates.pdb
