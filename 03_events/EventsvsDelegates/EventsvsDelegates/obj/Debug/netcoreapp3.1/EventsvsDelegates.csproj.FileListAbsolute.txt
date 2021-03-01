@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\bin\Debug\netcoreapp3.1\EventsvsDelegates.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\bin\Debug\netcoreapp3.1\EventsvsDelegates.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\bin\Debug\netcoreapp3.1\EventsvsDelegates.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\bin\Debug\netcoreapp3.1\EventsvsDelegates.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\bin\Debug\netcoreapp3.1\EventsvsDelegates.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\bin\Debug\netcoreapp3.1\EventsvsDelegates.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\obj\Debug\netcoreapp3.1\EventsvsDelegates.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\obj\Debug\netcoreapp3.1\EventsvsDelegates.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\obj\Debug\netcoreapp3.1\EventsvsDelegates.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\obj\Debug\netcoreapp3.1\EventsvsDelegates.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\obj\Debug\netcoreapp3.1\EventsvsDelegates.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\obj\Debug\netcoreapp3.1\EventsvsDelegates.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsvsDelegates\EventsvsDelegates\obj\Debug\netcoreapp3.1\EventsvsDelegates.genruntimeconfig.cache
