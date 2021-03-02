@@ -8,6 +8,8 @@ namespace DemoLibrary
 {
     public class Account
     {
+        public event EventHandler<string> TransactionApprovedEvent;
+
         public string AccountName { get; set; }
         public decimal Balance { get; private set; }
 
@@ -22,6 +24,10 @@ namespace DemoLibrary
         {
             _transactions.Add($"Deposited { string.Format("{0:C2}", amount) } for { depositName }");
             Balance += amount;
+            // making a change to the transaction list
+            // TRIGGER
+            TransactionApprovedEvent?.Invoke(this, depositName);
+
             return true;
         }
 
@@ -32,6 +38,10 @@ namespace DemoLibrary
             {
                 _transactions.Add($"Withdrew { string.Format("{0:C2}", amount) } for { paymentName }");
                 Balance -= amount;
+                // making a change to the transaction list
+                // TRIGGER
+                TransactionApprovedEvent?.Invoke(this, paymentName);
+
                 return true;
             }
             else
@@ -58,6 +68,9 @@ namespace DemoLibrary
 
                         _transactions.Add($"Withdrew { string.Format("{0:C2}", amount) } for { paymentName }");
                         Balance -= amount;
+                        // making a change to the transaction list
+                        // TRIGGER
+                        TransactionApprovedEvent?.Invoke(this, paymentName);
 
                         return true;
                     }

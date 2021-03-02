@@ -1,0 +1,14 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.Transactions.resources
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.pdb
