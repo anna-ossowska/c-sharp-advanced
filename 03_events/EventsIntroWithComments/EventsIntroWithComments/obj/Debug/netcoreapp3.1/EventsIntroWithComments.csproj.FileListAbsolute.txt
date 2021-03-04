@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\bin\Debug\netcoreapp3.1\EventsIntroWithComments.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\bin\Debug\netcoreapp3.1\EventsIntroWithComments.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\bin\Debug\netcoreapp3.1\EventsIntroWithComments.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\bin\Debug\netcoreapp3.1\EventsIntroWithComments.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\bin\Debug\netcoreapp3.1\EventsIntroWithComments.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\bin\Debug\netcoreapp3.1\EventsIntroWithComments.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\obj\Debug\netcoreapp3.1\EventsIntroWithComments.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\obj\Debug\netcoreapp3.1\EventsIntroWithComments.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\obj\Debug\netcoreapp3.1\EventsIntroWithComments.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\obj\Debug\netcoreapp3.1\EventsIntroWithComments.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\obj\Debug\netcoreapp3.1\EventsIntroWithComments.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\obj\Debug\netcoreapp3.1\EventsIntroWithComments.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntroWithComments\EventsIntroWithComments\obj\Debug\netcoreapp3.1\EventsIntroWithComments.csprojAssemblyReference.cache
