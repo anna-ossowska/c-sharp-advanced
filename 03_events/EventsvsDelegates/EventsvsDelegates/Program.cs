@@ -4,7 +4,6 @@ namespace EventsvsDelegates
 {
     class TrainSignal
     {
-        // delegate reference
         public event Action TrainIsComing;
 
         public void HereComesATrain()
@@ -43,13 +42,16 @@ namespace EventsvsDelegates
             new Car(trainSignal);
             trainSignal.HereComesATrain();
 
-            // Event is a delegate with two restrictions on it:
+            // Event is a delegate reference with two restrictions on it:
             // 1. You cannot invoke the delegate reference directly
             // 2. You cannot assign to it directly
 
             // Thus, this code cannot compile:
             // trainSignal.TrainIsComing();
             // trainSignal.TrainIsComing = null;
+
+            // Thus, this code can compile:
+            trainSignal.TrainIsComing += null;
         }
     }
 }
