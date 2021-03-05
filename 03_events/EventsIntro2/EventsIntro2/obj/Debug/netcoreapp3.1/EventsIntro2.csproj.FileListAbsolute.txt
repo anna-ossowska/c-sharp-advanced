@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\bin\Debug\netcoreapp3.1\EventsIntro2.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\bin\Debug\netcoreapp3.1\EventsIntro2.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\bin\Debug\netcoreapp3.1\EventsIntro2.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\bin\Debug\netcoreapp3.1\EventsIntro2.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\bin\Debug\netcoreapp3.1\EventsIntro2.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\bin\Debug\netcoreapp3.1\EventsIntro2.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\obj\Debug\netcoreapp3.1\EventsIntro2.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\obj\Debug\netcoreapp3.1\EventsIntro2.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\obj\Debug\netcoreapp3.1\EventsIntro2.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\obj\Debug\netcoreapp3.1\EventsIntro2.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\obj\Debug\netcoreapp3.1\EventsIntro2.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\obj\Debug\netcoreapp3.1\EventsIntro2.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsIntro2\EventsIntro2\obj\Debug\netcoreapp3.1\EventsIntro2.genruntimeconfig.cache
