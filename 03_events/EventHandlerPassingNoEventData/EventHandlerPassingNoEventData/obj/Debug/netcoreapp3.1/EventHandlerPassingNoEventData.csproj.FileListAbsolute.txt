@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingNoEventData\EventHandlerPassingNoEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingNoEventData.genruntimeconfig.cache
