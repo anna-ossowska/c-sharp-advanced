@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingEventData.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingEventData.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingEventData.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingEventData.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingEventData.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\bin\Debug\netcoreapp3.1\EventHandlerPassingEventData.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingEventData.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingEventData.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingEventData.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingEventData.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingEventData.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingEventData.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventHandlerPassingEventData\EventHandlerPassingEventData\obj\Debug\netcoreapp3.1\EventHandlerPassingEventData.csprojAssemblyReference.cache
