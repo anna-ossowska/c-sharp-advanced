@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\bin\Debug\netcoreapp3.1\CustomEventArgs.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\bin\Debug\netcoreapp3.1\CustomEventArgs.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\bin\Debug\netcoreapp3.1\CustomEventArgs.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\bin\Debug\netcoreapp3.1\CustomEventArgs.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\bin\Debug\netcoreapp3.1\CustomEventArgs.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\bin\Debug\netcoreapp3.1\CustomEventArgs.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\obj\Debug\netcoreapp3.1\CustomEventArgs.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\obj\Debug\netcoreapp3.1\CustomEventArgs.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\obj\Debug\netcoreapp3.1\CustomEventArgs.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\obj\Debug\netcoreapp3.1\CustomEventArgs.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\obj\Debug\netcoreapp3.1\CustomEventArgs.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\obj\Debug\netcoreapp3.1\CustomEventArgs.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\CustomEventArgs\CustomEventArgs\obj\Debug\netcoreapp3.1\CustomEventArgs.genruntimeconfig.cache
