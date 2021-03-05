@@ -4,23 +4,26 @@ namespace EventsIntroWithComments
 {
     class Newsletter
     {
-        // Three important concepts about events:
-        // 1. Internally the event stores the "list" of pointers to the methods to call when an event is raised.
+        // Important concepts about the events:
+        // 1. Publisher - class which raises an event
+        // 2. Subscriber - class which receives an event and handles it as it's needed.
+        // 3. Internally an event stores the "list" of pointers to the methods (event handlers) to call when an event is raised.
         //    But to call these methods we must know what arguments to pass.
-        // 2. We use a Delegate as a "Contract" between the event and all the methods that subscribe to the event.
-        // 3. Delegate provides us with the method signatures, thus we know how to call the specific methods (subscribers).
+        // 4. We use a Delegate as a "Contract" between the event and all the methods that will be called.
+        // 5. In other words, a Delegate provides us with the method signatures, thus we know how to call the methods of Subscriber class.
 
         // This event can cause any method which conforms to Action to be called.
-        // Action points to methods which return void and take no arguments.
+        // Action points to event handlers which return void and take no arguments.
         public event Action Subscribing;
 
-        // Here comes the code I want to be executed when the Subscribing event fires.
+        // Here comes the code I want to be executed when the event fires.
         public void ClickSubscribe()
         {
-            // I make sure I have any subscribers before invoking
+            // I make sure I have any subscribers before invoking the delegate
+            // Then I call all the event handler methods registered with the Subscribing event.
             Subscribing?.Invoke();
             // Same as:
-            //if (Subscribing!= null)
+            //if (Subscribing != null)
             //{
             //    Subscribing();
             //}
