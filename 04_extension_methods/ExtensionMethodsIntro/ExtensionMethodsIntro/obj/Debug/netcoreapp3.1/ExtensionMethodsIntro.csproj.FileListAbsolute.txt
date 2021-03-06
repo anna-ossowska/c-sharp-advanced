@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\bin\Debug\netcoreapp3.1\ExtensionMethodsIntro.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\bin\Debug\netcoreapp3.1\ExtensionMethodsIntro.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\bin\Debug\netcoreapp3.1\ExtensionMethodsIntro.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\bin\Debug\netcoreapp3.1\ExtensionMethodsIntro.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\bin\Debug\netcoreapp3.1\ExtensionMethodsIntro.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\bin\Debug\netcoreapp3.1\ExtensionMethodsIntro.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\obj\Debug\netcoreapp3.1\ExtensionMethodsIntro.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\obj\Debug\netcoreapp3.1\ExtensionMethodsIntro.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\obj\Debug\netcoreapp3.1\ExtensionMethodsIntro.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\obj\Debug\netcoreapp3.1\ExtensionMethodsIntro.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\obj\Debug\netcoreapp3.1\ExtensionMethodsIntro.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\obj\Debug\netcoreapp3.1\ExtensionMethodsIntro.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ExtensionMethodsIntro\ExtensionMethodsIntro\obj\Debug\netcoreapp3.1\ExtensionMethodsIntro.genruntimeconfig.cache
