@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\04_extension_methods\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.genruntimeconfig.cache
