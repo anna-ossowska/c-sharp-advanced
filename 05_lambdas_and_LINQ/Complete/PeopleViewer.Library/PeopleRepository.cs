@@ -9,6 +9,8 @@ namespace PeopleViewer.Library
 {
     public class PeopleRepository
     {
+        // Event Asynchronous Pattern:
+        // 1. Asynchronous method that kicks things off 
         public void GetPeopleAsync()
         {
             var worker = new BackgroundWorker();
@@ -24,6 +26,7 @@ namespace PeopleViewer.Library
             worker.RunWorkerAsync();
         }
 
+        // 2. This event fires after our asynchronous process is completed 
         public event EventHandler<GetPeopleCompletedEventArgs> GetPeopleCompleted;
 
         protected virtual void OnGetPeopleCompleted(GetPeopleCompletedEventArgs e)
@@ -58,6 +61,8 @@ namespace PeopleViewer.Library
         }
     }
 
+    // If you want to pass more than one value as event data,
+    // Create a class deriving from EventArgs base class
     public class GetPeopleCompletedEventArgs : EventArgs
     {
         public IEnumerable<Person> Result { get; set; }

@@ -14,11 +14,20 @@ namespace PeopleViewer
         }
 
         private void RefreshButton_Click(object sender, RoutedEventArgs e)
-        {
+        { 
+            // selectedPerson is a method level variable,
+            // it means that if get } of RefreshButton_Click method, this variable should be Garbage Collected
+
+            // BUT this variable was in scope when we created a lambda expression
+            // So we can grab the reference to that viariable and we can use it in the body of our lambda,
+            // even though it would normally be out of scope
+            // Thus, selectedPerson can also be called a CAPTURED variable
+            // This is how we form a CLOSURE
             Person selectedPerson = PersonListBox.SelectedItem as Person;
 
             var repository = new PeopleRepository();
             repository.GetPeopleCompleted +=
+                // types don't need to be included inside lambda expressions
                 (repoSender, repoArgs) =>
                 {
                     PersonListBox.ItemsSource = AddSort(AddFilters(repoArgs.Result));
