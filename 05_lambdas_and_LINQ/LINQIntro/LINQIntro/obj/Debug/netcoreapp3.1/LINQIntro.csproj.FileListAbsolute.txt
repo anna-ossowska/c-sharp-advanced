@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\05_lambdas_and_LINQ\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.genruntimeconfig.cache
