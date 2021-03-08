@@ -42,37 +42,41 @@ namespace PeopleViewer
             //selectedPerson = null;
         }
 
-        private IEnumerable<Person> AddFilters(IEnumerable<Person> data)
+        private IEnumerable<Person> AddFilters(IEnumerable<Person> people)
         {
             int startYear = Int32.Parse(StartDateTextBox.Text);
             int endYear = Int32.Parse(EndDateTextBox.Text);
 
             if (DateFilterCheckBox.IsChecked.Value)
-                data = data
+                people = people
+                    // chaining
                     .Where(p => p.StartDate.Year >= startYear)
                     .Where(p => p.StartDate.Year <= endYear);
 
             if (NameFilterCheckBox.IsChecked.Value)
-                data = data.Where(p => p.FirstName == NameTextBox.Text);
+                people = people.Where(p => p.FirstName == NameTextBox.Text);
 
-            return data;
+            return people;
         }
 
-        private IOrderedEnumerable<Person> AddSort(IEnumerable<Person> data)
+        private IOrderedEnumerable<Person> AddSort(IEnumerable<Person> people)
         {
             if (LastNameSortButton.IsChecked.Value)
-                return data.OrderBy(p => p.LastName);
+                // p.LastName is a string and string implements IComparable
+                // that's why OrderBy can be performed
+                return people.OrderBy(p => p.LastName);
 
             if (FirstNameSortButton.IsChecked.Value)
-                return data.OrderBy(p => p.FirstName).ThenBy(p => p.LastName);
+                // ThenBy is a non-destructive secondary sort
+                return people.OrderBy(p => p.FirstName).ThenBy(p => p.LastName);
 
             if (DateSortButton.IsChecked.Value)
-                return data.OrderBy(p => p.StartDate);
+                return people.OrderBy(p => p.StartDate);
 
             if (RatingSortButton.IsChecked.Value)
-                return data.OrderByDescending(p => p.Rating);
+                return people.OrderByDescending(p => p.Rating);
 
-            return data.OrderBy(p => p.LastName);
+            return people.OrderBy(p => p.LastName);
         }
 
         //void repository_GetPeopleCompleted(object sender, GetPeopleCompletedEventArgs e)
