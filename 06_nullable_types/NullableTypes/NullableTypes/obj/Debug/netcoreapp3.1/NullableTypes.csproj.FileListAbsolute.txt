@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\06_nullable_types\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.csprojAssemblyReference.cache
