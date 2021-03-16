@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\bin\Debug\netcoreapp3.1\DynamicvsVar.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\bin\Debug\netcoreapp3.1\DynamicvsVar.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\bin\Debug\netcoreapp3.1\DynamicvsVar.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\bin\Debug\netcoreapp3.1\DynamicvsVar.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\bin\Debug\netcoreapp3.1\DynamicvsVar.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\bin\Debug\netcoreapp3.1\DynamicvsVar.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\obj\Debug\netcoreapp3.1\DynamicvsVar.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\obj\Debug\netcoreapp3.1\DynamicvsVar.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\obj\Debug\netcoreapp3.1\DynamicvsVar.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\obj\Debug\netcoreapp3.1\DynamicvsVar.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\obj\Debug\netcoreapp3.1\DynamicvsVar.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\obj\Debug\netcoreapp3.1\DynamicvsVar.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\07_dynamic\DynamicvsVar\DynamicvsVar\obj\Debug\netcoreapp3.1\DynamicvsVar.genruntimeconfig.cache
