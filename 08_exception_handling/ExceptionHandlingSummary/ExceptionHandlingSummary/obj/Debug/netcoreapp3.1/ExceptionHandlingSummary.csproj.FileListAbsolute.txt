@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\bin\Debug\netcoreapp3.1\ExceptionHandlingSummary.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\bin\Debug\netcoreapp3.1\ExceptionHandlingSummary.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\bin\Debug\netcoreapp3.1\ExceptionHandlingSummary.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\bin\Debug\netcoreapp3.1\ExceptionHandlingSummary.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\bin\Debug\netcoreapp3.1\ExceptionHandlingSummary.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\bin\Debug\netcoreapp3.1\ExceptionHandlingSummary.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\obj\Debug\netcoreapp3.1\ExceptionHandlingSummary.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\obj\Debug\netcoreapp3.1\ExceptionHandlingSummary.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\obj\Debug\netcoreapp3.1\ExceptionHandlingSummary.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\obj\Debug\netcoreapp3.1\ExceptionHandlingSummary.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\obj\Debug\netcoreapp3.1\ExceptionHandlingSummary.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\obj\Debug\netcoreapp3.1\ExceptionHandlingSummary.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandlingSummary\ExceptionHandlingSummary\obj\Debug\netcoreapp3.1\ExceptionHandlingSummary.genruntimeconfig.cache
