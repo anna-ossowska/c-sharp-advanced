@@ -1,0 +1,9 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandling\ExceptionsDemo\ExceptionsLibrary\bin\Debug\netstandard2.0\ExceptionsLibrary.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandling\ExceptionsDemo\ExceptionsLibrary\bin\Debug\netstandard2.0\ExceptionsLibrary.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandling\ExceptionsDemo\ExceptionsLibrary\bin\Debug\netstandard2.0\ExceptionsLibrary.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandling\ExceptionsDemo\ExceptionsLibrary\obj\Debug\netstandard2.0\ExceptionsLibrary.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandling\ExceptionsDemo\ExceptionsLibrary\obj\Debug\netstandard2.0\ExceptionsLibrary.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandling\ExceptionsDemo\ExceptionsLibrary\obj\Debug\netstandard2.0\ExceptionsLibrary.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandling\ExceptionsDemo\ExceptionsLibrary\obj\Debug\netstandard2.0\ExceptionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandling\ExceptionsDemo\ExceptionsLibrary\obj\Debug\netstandard2.0\ExceptionsLibrary.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\ExceptionHandling\ExceptionsDemo\ExceptionsLibrary\obj\Debug\netstandard2.0\ExceptionsLibrary.pdb
