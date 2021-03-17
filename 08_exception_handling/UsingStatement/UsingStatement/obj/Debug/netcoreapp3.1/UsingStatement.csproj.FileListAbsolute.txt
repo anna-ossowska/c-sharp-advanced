@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\bin\Debug\netcoreapp3.1\UsingStatement.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\bin\Debug\netcoreapp3.1\UsingStatement.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\bin\Debug\netcoreapp3.1\UsingStatement.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\bin\Debug\netcoreapp3.1\UsingStatement.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\bin\Debug\netcoreapp3.1\UsingStatement.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\bin\Debug\netcoreapp3.1\UsingStatement.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\obj\Debug\netcoreapp3.1\UsingStatement.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\obj\Debug\netcoreapp3.1\UsingStatement.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\obj\Debug\netcoreapp3.1\UsingStatement.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\obj\Debug\netcoreapp3.1\UsingStatement.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\obj\Debug\netcoreapp3.1\UsingStatement.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\obj\Debug\netcoreapp3.1\UsingStatement.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\UsingStatement\UsingStatement\obj\Debug\netcoreapp3.1\UsingStatement.genruntimeconfig.cache
