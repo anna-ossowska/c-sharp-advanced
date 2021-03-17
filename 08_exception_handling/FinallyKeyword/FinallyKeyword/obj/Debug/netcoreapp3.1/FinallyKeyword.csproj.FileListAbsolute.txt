@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\bin\Debug\netcoreapp3.1\FinallyKeyword.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\bin\Debug\netcoreapp3.1\FinallyKeyword.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\bin\Debug\netcoreapp3.1\FinallyKeyword.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\bin\Debug\netcoreapp3.1\FinallyKeyword.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\bin\Debug\netcoreapp3.1\FinallyKeyword.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\bin\Debug\netcoreapp3.1\FinallyKeyword.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\obj\Debug\netcoreapp3.1\FinallyKeyword.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\obj\Debug\netcoreapp3.1\FinallyKeyword.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\obj\Debug\netcoreapp3.1\FinallyKeyword.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\obj\Debug\netcoreapp3.1\FinallyKeyword.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\obj\Debug\netcoreapp3.1\FinallyKeyword.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\obj\Debug\netcoreapp3.1\FinallyKeyword.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\08_exception_handling\FinallyKeyword\FinallyKeyword\obj\Debug\netcoreapp3.1\FinallyKeyword.genruntimeconfig.cache
