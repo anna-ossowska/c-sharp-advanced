@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\bin\Debug\netcoreapp3.1\EventsSummary1.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\bin\Debug\netcoreapp3.1\EventsSummary1.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\bin\Debug\netcoreapp3.1\EventsSummary1.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\bin\Debug\netcoreapp3.1\EventsSummary1.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\bin\Debug\netcoreapp3.1\EventsSummary1.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\bin\Debug\netcoreapp3.1\EventsSummary1.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\obj\Debug\netcoreapp3.1\EventsSummary1.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\obj\Debug\netcoreapp3.1\EventsSummary1.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\obj\Debug\netcoreapp3.1\EventsSummary1.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\obj\Debug\netcoreapp3.1\EventsSummary1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\obj\Debug\netcoreapp3.1\EventsSummary1.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\obj\Debug\netcoreapp3.1\EventsSummary1.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-advanced\03_events\EventsSummary1\EventsSummary1\obj\Debug\netcoreapp3.1\EventsSummary1.genruntimeconfig.cache
